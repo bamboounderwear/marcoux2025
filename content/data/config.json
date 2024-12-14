@@ -57,7 +57,7 @@
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
-            "url": "https://assets.stackbit.com/components/images/default/default-image.png",
+            "url": "/images/marcoux_white.png",
             "altText": "Your logo image",
             "caption": "",
             "elementId": ""
